@@ -20,7 +20,6 @@ Using **Microsoft Power BI**, the dashboard presents key metrics like revenue, p
 - **Monthly/Quarterly Sales Trend**
 - **Customer Demographic Analysis** (if included)
 
-*(Insert a screenshot of your dashboard here for visual appeal — in the `images/` folder.)*
 
 ## 📂 Folder Structure
 ```
@@ -44,7 +43,7 @@ Apollo-Bike-Sales-Dashboard/
 - **Seasonality**: Sales spike observed in Q2 and Q4 — indicating peak seasons.
 - **Customer Focus**: Customers aged 30-40 accounted for the highest purchases.
 
-*(Adjust this depending on your actual dashboard insights.)*
+
 
 ## 🚀 How to View the Dashboard
 1. Download the `.pbix` file from the `dashboard/` folder.

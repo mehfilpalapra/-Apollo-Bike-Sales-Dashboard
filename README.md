@@ -54,5 +54,5 @@ Apollo-Bike-Sales-Dashboard/
 Feel free to reach out to me via:
 - [LinkedIn](https://linkedin.com/in/mehfil-palapra-98263422a)
 - Email: your-mehfilpp13@gmail.com
+![Appolo Bike Sale Dashboard](https://github.com/user-attachments/assets/e46f83df-d039-4136-b47a-bc4233dd78da)
 
-![Appolo Bike Sale Dashboard](https://github.com/user-attachments/assets/7bef3557-88ba-4de9-b72e-ff14665cfb2b)
